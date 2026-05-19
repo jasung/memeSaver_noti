@@ -3,5 +3,9 @@
   "versionCode": 61,
   "apkUrl": "https://t.me/c/1255129192/42295",
   "message": "새 버전이 있습니다.",
+  "releaseNotes": [
+    "최근 사용 탭에서 복사해도 화면 순서가 즉시 바뀌지 않도록 개선",
+    "클립보드 복사 성공 알림 중복 제거"
+  ],
   "required": false
 }
